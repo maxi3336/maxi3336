@@ -2,6 +2,14 @@
 
 [![Leetcode Stats](https://leetcard.jacoblin.cool/maxi3336)](https://leetcode.com/maxi3336)
 
+![codewars](https://www.codewars.com/users/maxi3336/badges/large)
+
+#### CV
+[Habr Career](https://career.habr.com/maxi3336)
+
+#### Contact Me
+[Telegram](https://t.me/maxip1t)
+
 <!--
 **maxi3336/maxi3336** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
