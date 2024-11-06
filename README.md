@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/maxi3336)
+[![Leetcode Stats](https://leetcard.jacoblin.cool/maxi3336)](https://leetcode.com/maxi3336)
 
 <!--
 **maxi3336/maxi3336** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
