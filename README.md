@@ -4,9 +4,6 @@
 
 ![codewars](https://www.codewars.com/users/maxi3336/badges/large)
 
-#### CV
-[Habr Career](https://career.habr.com/maxi3336)
-
 #### Contact Me
 [Telegram](https://t.me/maxip1t)
 
